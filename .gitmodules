@@ -1,0 +1,3 @@
+[submodule "01.ゼロから作るDeepLearning/99.source"]
+	path = 01.ゼロから作るDeepLearning/99.source
+	url = https://github.com/oreilly-japan/deep-learning-from-scratch
