@@ -1,0 +1,7 @@
+# For deep learning
+numpy
+matplotlib
+
+# For lint
+flake8
+autopep8
